@@ -7,7 +7,6 @@
     $usuario_id = null;
     $usuario_perfil_id = null;
 
-
     $perfis = array(1 => 'administrativo', 2 => 'Usuário');
 
     //usuários do sistema (depois será trocado pelo banco de dados)
