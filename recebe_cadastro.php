@@ -12,10 +12,10 @@
 
     //usuários do sistema (depois será trocado pelo banco de dados)
     $usuario_app = array(
-        array('id' => 1, 'email' => 'hailtomadm@gmail.com', 'senha' => '123456', 'perfil_id' => 1),
-        array('id' => 2, 'email' => 'hailtomteste@gmail.com', 'senha' => '123457', 'perfil_id' => 1),
-        array('id' => 3, 'email' => 'hailtomteste3@gmail.com', 'senha' => '123458', 'perfil_id' => 2),
-        array('id' => 4, 'email' => 'Connectcorpteste@gmail.com', 'senha' => '987654', 'perfil_id' => 2),
+        array('id' => 1, 'email' => '', 'senha' => '', 'perfil_id' => 1),
+        array('id' => 2, 'email' => '', 'senha' => '', 'perfil_id' => 1),
+        array('id' => 3, 'email' => '', 'senha' => '', 'perfil_id' => 2),
+        array('id' => 4, 'email' => '', 'senha' => '', 'perfil_id' => 2),
     );
 
     //função para percorrer a lista e verificar usuário e senha correspondente
