@@ -8,7 +8,7 @@
             <a class="btn_enter" href="cadastro.php">Entrar</a>/<a class="btn_sair" href="usuario_menu.php">User</a>/<a class="btn_sair" href="logoff.php">Sair</a>
         </div>
     </div> <!--links para social mídia-->
-
+ 
     <div class="imgbody">
         <header><!--Cabeçalho-->
             <h1>Hailtom G. Dias
@@ -17,3 +17,4 @@
             </h1>
             <h3>Welcome to my Lab<figure class="positiongif"><img src="GiFs/47tj.gif"></figure></h3>
         </header>
+            
