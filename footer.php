@@ -1,4 +1,5 @@
 <footer class="ft1">
+            
             <div class="menuft1a">
                 <a href="https://github.com/ttrikingG" target="_blank"><img src="Icons/icons-github-50.png"></a>
                 <a href="https://linkedin.com/in/hailtom-garcia-dias-66909a265/" target="_blank"><img src="Icons/icon-linkedin-50.png"></a>
