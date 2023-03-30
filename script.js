@@ -43,6 +43,7 @@ function closectf(el) {
 
 
 //==========on click avatar do profile
+
 /*'use strict'
 
 let photo = document.querySelector(".avatar");
